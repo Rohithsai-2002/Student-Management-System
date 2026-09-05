@@ -75,7 +75,7 @@ View all registered students
 11. Exit
 🚀 How to Run
 Clone the repository.
-git clone https://github.com/yourusername/StudentManagementSystem.git
+git clone https://github.com/Rohithsai-2002/Student-Management-System.git
 Open the project in Eclipse or IntelliJ IDEA.
 
 Run:
